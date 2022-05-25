@@ -1,2 +1,2 @@
 # DjangoAnalyticsApp
-An analytics dashboard in a Django app
+An analytics dashboard using FlexMonster for a Django app.
